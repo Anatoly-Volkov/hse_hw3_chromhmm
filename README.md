@@ -37,3 +37,8 @@ https://colab.research.google.com/drive/1a2OvUJKgt-t7ycJfwmCP9kCazkoZ92MT?usp=sh
 | 8  | Strong enhancer | H2AFZ, H3K4me1, H3K4me2, H3K4me3, H3K9ac, H3K27ac  |
 | 9  | Strong_Enhancer  | H2AFZ,H3K4me1  |
 | 10  | Transcriptional transition  |  H3K4me1, H3K9ac |
+
+
+### Бонусная часть
+
+![](data/bonus_hwe3.jpg)
